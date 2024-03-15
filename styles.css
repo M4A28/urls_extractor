@@ -1,0 +1,33 @@
+html,body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+  width: 400px !important;  /* Adjust as needed */
+  overflow: hidden !important;
+  padding: 10px;
+}
+
+
+
+input[type="text"] {
+    width: 90%;
+    padding: 12px; /* Add padding */
+    margin: 8px 8px 8px 8px;
+    box-sizing: border-box;
+    border: 3px solid #ccc;
+    border-radius: 4px;
+}
+  
+button {
+  background-color: #4c77af;
+  color: white;
+  padding: 10px 14px;
+  margin: 8px 2px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  display: inline-block; /* Add this to display the buttons in a row */
+  width: 30%; /* Reduce the width to make the buttons smaller */
+}
+button:hover {
+  background-color: #77a5e0;
+}
