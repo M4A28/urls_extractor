@@ -6,7 +6,7 @@ URL Extractor is a simple browser extension that allows you to extract URLs from
 
 - Extract all URLs from the current webpage
 - Extract only image URLs from the current webpage
-- Display the extracted URLs in JSON, TXT, or HTML format
+- Display the extracted URLs in JSON, or HTML format
 - Group URLs by domain
 - Automatically fill the input field with the URL of the current site when you open the popup
 
